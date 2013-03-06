@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Definições do Galaxy 5</string>
+    <string name="attn_fm">Atenuação - FM radio</string>
+    <string name="attn_headset">Atenuação - Fone</string>
+    <string name="attn_speaker">Atenuação - Auto-Falante</string>
+    <string name="audio_cat">Atenuação de Audio</string>
+    <string name="bug_report_success">Relatório de erro gerado para</string>
+    <string name="cancel">Cancelar</string>
+    <string name="current_setting">Configuração atual:</string>
+    <string name="disabled">inválido</string>
+    <string name="extamp">Samsung extamp filtro</string>
+    <string name="extamp_sum_off">Filtro amplificador externo está desligado</string>
+    <string name="extamp_sum_on">Filtro amplificador externo está ligado</string>
+    <string name="fake_dt">Toque duplo falso</string>
+    <string name="fake_dt_sum">Use gestos circulares para ativar toque duplo para pinch-to-zoom (requer reiniciar)</string>
+    <string name="gen_bug_report">Gerar LogCat</string>
+    <string name="gen_bug_report_summary">Sistema de lixeiras logs para cartão SD para fins de relatórios de bugs</string>
+    <string name="ksm_sum">KSM funde páginas de memória anônimos, otimizando o uso de memória para aplicações</string>
+    <string name="log_cat">LogCat</string>
+    <string name="memory_man">Gereciamento de memoria</string>
+    <string name="processing">Processando…</string>
+    <string name="rom_cat">Configurações da ROM</string>
+    <string name="sd_not_mounted">SD card não está montado</string>
+    <string name="swap_cce">"Compcache está ativado. Você vai precisar de desativá-lo primeiro"</string>
+    <string name="swap_sum">Use partição swap de cartão SD como memória virtual, permitindo que os aplicativos mais para permanecer na memória</string>
+</resources>
